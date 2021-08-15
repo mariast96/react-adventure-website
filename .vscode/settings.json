@@ -1,0 +1,7 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+"git.ignoreLimitWarning": true,
+"prettier.enableDebugLogs": true,
+"prettier.useTabs": true
+}
